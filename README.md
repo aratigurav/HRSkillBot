@@ -1,6 +1,8 @@
 # Overview of the AI Chat Bot template
 
-This template showcases a bot app that responds to user questions like an AI assistant. This enables your users to talk with the AI assistant in Teams to find information.
+This template showcases a bot app that responds to user questions like an AI assistant. This enables your users to talk with the AI assistant in Teams to find information from the super bot.
+
+Please update the appropriate value in your .env.local file to work with your tenant.
 
 The app template is built using the Teams AI library, which provides the capabilities to build AI-based Teams applications.
 
